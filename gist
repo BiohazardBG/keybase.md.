@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am biohazardbg on github.
+  * I am biohazard_bg (https://keybase.io/biohazard_bg) on keybase.
+  * I have a public key ASDsk--voAEuOYPZZi7qLaVBM21IOxnw81Y6zbQi1Dh7Pgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ec93efafa0012e3983d9662eea2da541336d483b19f0f3563acdb422d4387b3e0a",
+      "host": "keybase.io",
+      "kid": "0120ec93efafa0012e3983d9662eea2da541336d483b19f0f3563acdb422d4387b3e0a",
+      "uid": "640959a9b6be007859bc19717978bf19",
+      "username": "biohazard_bg"
+    },
+    "merkle_root": {
+      "ctime": 1568102478,
+      "hash": "a5b798dc1980364f901835356627d5beb10745afd43838543b745cdb5486bd2c634271e93cc209262e461832e8a64342874cb080532a34e52e764b4f20cfc521",
+      "hash_meta": "27058352c3b3d11feeab6673bd028adad3f01b49f3eb107504875a9e4bd941a9",
+      "seqno": 6346125
+    },
+    "service": {
+      "entropy": "MnZxKmrTdZ7JiWyzXb6HIFvJ",
+      "name": "github",
+      "username": "biohazardbg"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568102604,
+  "expire_in": 504576000,
+  "prev": "ea1d64f06d3151f3302ad62de7fbaaff351807c2fa6973c7cd2d915b5785dda8",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASDsk--voAEuOYPZZi7qLaVBM21IOxnw81Y6zbQi1Dh7Pgo](https://keybase.io/biohazard_bg), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7JPvr6ABLjmD2WYu6i2lQTNtSDsZ8PNWOs20ItQ4ez4Kp3BheWxvYWTESpcCBcQg6h1k8G0xUfMwKtYt5/uq/zUYB8L6aXPHzS2RW1eF3ajEIF7tHYm/avaIFSe0NKWVFosyJTtpTKTl4LT9C5eV/3X0AgHCo3NpZ8RAmfPLKGe5gUjHcnomkAy2gc3L1ufZjRwOhd2lCdM6IfTLgwcQ0nDKZVIcbDti4797bPEraUICpgQmDAFy/ft6D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIpbO5n/kSeeTsJNe88EmGqfE1YQwnyhivRJTp8/FHvDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/biohazard_bg
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id biohazard_bg
+```
